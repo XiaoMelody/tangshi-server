@@ -1,13 +1,13 @@
 {
-	"v1_config":{
+	"config":{
 		"code":200,
 		"data":"xxxx"
 	},
-	"v1_list":{
+	"list":{
 		"code":200,
 		"data":"xxxx"
 	},
-	"v1_media":{
+	"media":{
 		"code":200,
 		"data":"xxxx"
 	}
