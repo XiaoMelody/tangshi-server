@@ -2,13 +2,5 @@
 	"config":{
 		"code":200,
 		"data":"xxxx"
-	},
-	"list":{
-		"code":200,
-		"data":"xxxx"
-	},
-	"media":{
-		"code":200,
-		"data":"xxxx"
 	}
 }
