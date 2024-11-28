@@ -10,5 +10,9 @@
 	"v1_media":{
 		"code":200,
 		"data":""
+	},
+	"v1_ad_config":{
+		"code":200,
+		"data":"EzMeWpZjYeIaQ4jT1tYMlTwtjMFIpb1rvXGxccQG0WU="
 	}
 }
